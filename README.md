@@ -1,1 +1,1 @@
-# jsp project
+# diary jsp project
