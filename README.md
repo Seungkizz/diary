@@ -10,6 +10,7 @@
 + Java
 + Jsp
 + MySQL
++ JSTL
 
 <hr>
 
